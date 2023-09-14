@@ -1,4 +1,4 @@
-https://th.bing.com/th/id/OIP.YkOZ9LhX2XZ1tzADna_F3AHaF2?pid=ImgDet&rs=1
+<img src="https://i.imgur.com/fzR6nTr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
 
 <h1>TCPDump Project: Network Traffic Analysis</h1>
