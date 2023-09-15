@@ -3,6 +3,8 @@
 
 <h1>TCPDump Project: Network Traffic Analysis</h1>
 
+I'll be using the TCPDump Visualizer, a tool that helps make sense of network data by capturing, filtering, and presenting it in an easy-to-understand way.
 
-- <h2>Anazlyze network traffic on Terminal w/ TCPDump</h2>
+
+<h2>Anazlyze network traffic on Terminal w/ TCPDump</h2>
 
