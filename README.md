@@ -87,6 +87,7 @@ I'll be using the TCPDump Visualizer, a tool that helps make sense of network da
 
 
 
+<img src="https://i.imgur.com/WsyLMTN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
 
 
