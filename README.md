@@ -19,6 +19,7 @@ I'll be using the TCPDump Visualizer, a tool that helps make sense of network da
 <img src="https://i.imgur.com/MfBheZ4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
 - Type Sudo TCPDump and now terminal starts to pick up network traffic
+- Type ctrl+c to stop traffic
 
 <img src="https://i.imgur.com/7Eatw2H.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
@@ -30,12 +31,40 @@ I'll be using the TCPDump Visualizer, a tool that helps make sense of network da
 
 <img src="https://i.imgur.com/BmWy2nd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
+- Sudo tcpdump -c 10 -# to add lines numbers
+
 <img src="https://i.imgur.com/la2ryoz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+- Shows all network interfaces I have on my workstation.
+
 <img src="https://i.imgur.com/vjhsadO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
 
 
 <h2>Shell Script</h2>
+
+- We're going to check the traffic for website skyroute66.com
+- We're going to filter it through port 443
+
+<img src="https://i.imgur.com/PUbjgcC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+
+- Now I'm going to open visual studio code and select file and open folder
+- Select desktop then ok
+- Now right click and create new file
+- then name it watchdog.sh
+
+<img src="https://i.imgur.com/ftos6Oj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+<img src="https://i.imgur.com/71GEbHT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+<img src="https://i.imgur.com/LZkaWOX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+<img src="https://i.imgur.com/ifI04Mn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+
+
+
 
 
 
