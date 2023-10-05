@@ -62,6 +62,29 @@ I'll be using the TCPDump Visualizer, a tool that helps make sense of network da
 
 <img src="https://i.imgur.com/ifI04Mn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
+- Then we're going to type sudo tcpdump -XX for line numbers tttt for readble time then host skyroute.com
+- Type sudo tcpdump -#XXtttt host skyroute.com -c 10
+
+<img src="https://i.imgur.com/krOWLCT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+
+- Then right click watchdog.sh and open integrated terminal
+
+<img src="https://i.imgur.com/clDmxbi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+<img src="https://i.imgur.com/mCkOtFh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+- Then ls -al to see the script
+
+<img src="https://i.imgur.com/K2inrzT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+- Its not exacutable so to make it exacutable type chmod +x watchdog.sh
+- Then type ls -al to check
+
+<img src="https://i.imgur.com/K2inrzT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<img src="https://i.imgur.com/Cqae6Nv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+
 
 
 
